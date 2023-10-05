@@ -1,7 +1,7 @@
 How to download a network similar to Google maps? Solving shortest path problem in Colab.
 
 This tutorial shows how to obtain a network using OpenStreetMap, and apply shortest problem algorithms.
-Tutorial blog:[https://medium.com/@RayyanElfadel/removing-periodic-noise-from-an-image-in-matlab-8e89f042221d](https://medium.com/@RayyanElfadel/how-to-download-a-network-similar-to-google-maps-solving-shortest-path-problem-in-colab-ff22f6d92d3e)
+Tutorial blog:(https://medium.com/@RayyanElfadel/how-to-download-a-network-similar-to-google-maps-solving-shortest-path-problem-in-colab-ff22f6d92d3e)
 
 
 
